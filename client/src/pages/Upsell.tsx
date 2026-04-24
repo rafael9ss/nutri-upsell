@@ -85,13 +85,7 @@ export default function Upsell() {
                 boa escolha!
               </p>
               
-              <h1 className="text-5xl md:text-7xl lg:text-[5.5rem] leading-[0.9] font-display font-bold">
-                você acabou de investir na <span className="gradient-text">alimentação</span> do seu filho.
-              </h1>
-              
-              <p className="text-xl font-medium max-w-lg mt-2">
-                agora temos algo que vai tornar isso <strong>muito mais fácil no dia a dia</strong>. conheça sua assistente de lanches com IA, disponível a qualquer hora.
-              </p>
+
 
               {/* VTurb Video */}
               <div className="mt-6 mb-2 w-full max-w-[400px] brutal-border brutal-shadow-sm bg-black overflow-hidden" style={{ borderRadius: '1rem' }}>

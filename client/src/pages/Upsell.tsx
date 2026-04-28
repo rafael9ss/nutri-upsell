@@ -298,7 +298,7 @@ export default function Upsell() {
           </p>
           
           <div className="inline-block bg-[#ccff00] px-8 py-4 brutal-border brutal-shadow-sm mb-10 slant-2 font-display font-black text-6xl">
-            R$ 49,90
+            R$ 37,90
           </div>
           
           <p className="font-bold text-gray-500 uppercase tracking-widest text-sm mb-8">Pagamento único · Acesso vitalício</p>
